@@ -1,0 +1,14 @@
+**/*.aux
+**/*.log
+**/*.toc
+**/*.gz
+**/*.xml
+**/*.fls
+**/*.fdb*
+**/*.bcf
+**/*.pdf
+**/*.bbl
+**/*.blg
+**/*.lot
+**/*.lof
+**/.vscode
